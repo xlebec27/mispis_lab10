@@ -1,1 +1,1 @@
-# mispis_lab10
+# mispis
